@@ -1,0 +1,8 @@
+﻿  courseworktest.cpp
+     Создается библиотека C:\Users\User\source\repos\3sem\ASD\semestr_project\Debug\courseworktest.lib и объект C:\Users\User\source\repos\3sem\ASD\semestr_project\Debug\courseworktest.exp
+courseworktest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Stack::Stack(void)" (??0Stack@@QAE@XZ) в функции "public: double __thiscall calc::count(void)" (?count@calc@@QAENXZ).
+courseworktest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Stack::push_back(double)" (?push_back@Stack@@QAEXN@Z) в функции "public: double __thiscall calc::count(void)" (?count@calc@@QAENXZ).
+courseworktest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Stack::pop_back(void)" (?pop_back@Stack@@QAEXXZ) в функции "public: double __thiscall calc::count(void)" (?count@calc@@QAENXZ).
+courseworktest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __thiscall Stack::isEmpty(void)" (?isEmpty@Stack@@QAE_NXZ) в функции "public: double __thiscall calc::count(void)" (?count@calc@@QAENXZ).
+courseworktest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: double __thiscall Stack::return_last(void)" (?return_last@Stack@@QAENXZ) в функции "public: double __thiscall calc::count(void)" (?count@calc@@QAENXZ).
+C:\Users\User\source\repos\3sem\ASD\semestr_project\Debug\courseworktest.dll : fatal error LNK1120: неразрешенных внешних элементов: 5
